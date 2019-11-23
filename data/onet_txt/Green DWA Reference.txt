@@ -1,0 +1,175 @@
+Element ID	Green DWA ID	Green DWA Title
+4.A.1.a.1	4.A.1.a.1.G01	Collect geographic information systems (GIS) data.
+4.A.1.a.1	4.A.1.a.1.G02	Collect geological data.
+4.A.1.a.1	4.A.1.a.1.G03	Collect data about green practices or programs.
+4.A.1.a.1	4.A.1.a.1.G04	Collect energy use data.
+4.A.1.a.1	4.A.1.a.1.G05	Collect product or environmental samples for testing.
+4.A.1.a.2	4.A.1.a.2.G01	Monitor sustainability indicators or other measures of green program effectiveness.
+4.A.1.a.2	4.A.1.a.2.G02	Monitor trends in green regulatory or market activity.
+4.A.1.a.2	4.A.1.a.2.G03	Monitor equipment used in green production processes.
+4.A.1.a.2	4.A.1.a.2.G04	Monitor conditions at alternative energy production facilities.
+4.A.1.a.2	4.A.1.a.2.G05	Monitor demand for resources.
+4.A.1.b.1	4.A.1.b.1.G01	Identify opportunities for implementation of green processes or technologies.
+4.A.1.b.1	4.A.1.b.1.G02	Identify potential environmental or health impacts of technologies or processes.
+4.A.1.b.1	4.A.1.b.1.G03	Identify green investment strategies.
+4.A.1.b.2	4.A.1.b.2.G01	Test vehicle emissions.
+4.A.1.b.2	4.A.1.b.2.G02	Inspect facilities or workplaces to ensure health, safety, or environmental standards are met.
+4.A.1.b.2	4.A.1.b.2.G03	Inspect heating, ventilation and air conditioning (HVAC) systems.
+4.A.1.b.2	4.A.1.b.2.G04	Inspect green energy installations to ensure proper operation.
+4.A.1.b.2	4.A.1.b.2.G05	Inspect motor vehicles.
+4.A.1.b.2	4.A.1.b.2.G06	Test alternative energy production equipment.
+4.A.1.b.2	4.A.1.b.2.G07	Inspect alternative energy production facilities.
+4.A.1.b.2	4.A.1.b.2.G08	Test new green automotive technologies or components.
+4.A.1.b.2	4.A.1.b.2.G09	Test materials or sites for environmental contaminants.
+4.A.1.b.3	4.A.1.b.3.G01	Estimate costs or resource requirements for green projects or processes.
+4.A.2.a.1	4.A.2.a.1.G01	Determine green installation specifications.
+4.A.2.a.1	4.A.2.a.1.G02	Evaluate sites for potential green installations.
+4.A.2.a.2	4.A.2.a.2.G01	Calculate energy consumption or loss.
+4.A.2.a.2	4.A.2.a.2.G02	Calculate emissions of hazardous or potentially hazardous substances.
+4.A.2.a.2	4.A.2.a.2.G03	Measure biofuels feedstock.
+4.A.2.a.2	4.A.2.a.2.G04	Compute expenses or savings associated with green products, processes or technologies.
+4.A.2.a.3	4.A.2.a.3.G01	Evaluate materials to assess quality or ensure compliance with standards.
+4.A.2.a.3	4.A.2.a.3.G02	Review technical documentation to ensure compliance with regulations or standards.
+4.A.2.a.3	4.A.2.a.3.G03	Evaluate operational activities for safety or compliance with environmental standards.
+4.A.2.a.3	4.A.2.a.3.G04	Conduct environmental audits.
+4.A.2.a.3	4.A.2.a.3.G05	Investigate violations or potential violations of environmental regulations.
+4.A.2.a.3	4.A.2.a.3.G06	Monitor green project construction.
+4.A.2.a.4	4.A.2.a.4.G01	Evaluate the functionality of alternative energy production facilities.
+4.A.2.a.4	4.A.2.a.4.G02	Research alternative energy systems or processes.
+4.A.2.a.4	4.A.2.a.4.G03	Research green automotive technologies.
+4.A.2.a.4	4.A.2.a.4.G04	Investigate accidents affecting the environment.
+4.A.2.a.4	4.A.2.a.4.G05	Research energy market issues.
+4.A.2.a.4	4.A.2.a.4.G06	Create models of green processes or systems.
+4.A.2.a.4	4.A.2.a.4.G07	Research green processes.
+4.A.2.a.4	4.A.2.a.4.G08	Conduct cost-benefit studies related to green processes, projects or products.
+4.A.2.a.4	4.A.2.a.4.G09	Evaluate the environmental impact of projects or processes.
+4.A.2.a.4	4.A.2.a.4.G10	Review proposals or bids.
+4.A.2.a.4	4.A.2.a.4.G11	Evaluate green products, technologies or applications.
+4.A.2.a.4	4.A.2.a.4.G12	Review project designs to ensure they meet regulations and technical requirements.
+4.A.2.a.4	4.A.2.a.4.G13	Analyze data related to environmental conditions and restoration needs.
+4.A.2.a.4	4.A.2.a.4.G14	Research agricultural issues.
+4.A.2.a.4	4.A.2.a.4.G15	Analyze geospatial data.
+4.A.2.a.4	4.A.2.a.4.G16	Model potential outcomes of green activities or processes.
+4.A.2.a.4	4.A.2.a.4.G17	Analyze contaminant or pollutant data.
+4.A.2.a.4	4.A.2.a.4.G18	Analyze equipment test data.
+4.A.2.a.4	4.A.2.a.4.G19	Investigate the relationship between the environment and large-scale systems or processes.
+4.A.2.a.4	4.A.2.a.4.G20	Analyze climate data.
+4.A.2.a.4	4.A.2.a.4.G21	Assess the effectiveness of green projects or programs.
+4.A.2.a.4	4.A.2.a.4.G22	Analyze logistics activities to determine areas for improvement.
+4.A.2.a.4	4.A.2.a.4.G23	Analyze shipping routes or methods to determine the most environmentally friendly options.
+4.A.2.b.1	4.A.2.b.1.G01	Analyze energy pricing.
+4.A.2.b.1	4.A.2.b.1.G02	Determine environmental remediation methods.
+4.A.2.b.1	4.A.2.b.1.G03	Diagnose causes of malfunctions or failures.
+4.A.2.b.1	4.A.2.b.1.G04	Analyze feasibility of green projects or products.
+4.A.2.b.1	4.A.2.b.1.G05	Select logistics technologies or processes.
+4.A.2.b.1	4.A.2.b.1.G06	Determine waste management methods.
+4.A.2.b.1	4.A.2.b.1.G07	Determine methods of dealing with water issues.
+4.A.2.b.1	4.A.2.b.1.G08	Select materials for use in green applications or production.
+4.A.2.b.1	4.A.2.b.1.G09	Initiate responses to violations of environmental regulations or procedures.
+4.A.2.b.1	4.A.2.b.1.G10	Determine design or equipment specifications for green projects.
+4.A.2.b.2	4.A.2.b.2.G01	Design methods of measuring or analyzing green data.
+4.A.2.b.2	4.A.2.b.2.G02	Design nanotechnology applications.
+4.A.2.b.2	4.A.2.b.2.G03	Design green agricultural technologies.
+4.A.2.b.2	4.A.2.b.2.G04	Develop green logistics processes.
+4.A.2.b.2	4.A.2.b.2.G05	Design water or wastewater treatment facilities.
+4.A.2.b.2	4.A.2.b.2.G06	Design energy efficient systems or components.
+4.A.2.b.2	4.A.2.b.2.G07	Design alternative energy systems.
+4.A.2.b.2	4.A.2.b.2.G08	Design green automotive systems or components.
+4.A.2.b.2	4.A.2.b.2.G09	Design systems for water management, distribution or conservation.
+4.A.2.b.2	4.A.2.b.2.G10	Design sustainable industrial processes or technologies.
+4.A.2.b.2	4.A.2.b.2.G11	Design electromechanical systems for green applications.
+4.A.2.b.2	4.A.2.b.2.G12	Develop green energy production processes.
+4.A.2.b.2	4.A.2.b.2.G13	Design pollution reduction or remediation systems.
+4.A.2.b.2	4.A.2.b.2.G14	Design biological or chemical processes with green applications.
+4.A.2.b.2	4.A.2.b.2.G15	Design green facilities or structures.
+4.A.2.b.2	4.A.2.b.2.G16	Design green electrical or electronics technologies.
+4.A.2.b.2	4.A.2.b.2.G17	Develop testing or monitoring procedures related to green projects or technologies.
+4.A.2.b.3	4.A.2.b.3.G01	Update professional knowledge.
+4.A.2.b.4	4.A.2.b.4.G01	Plan green energy projects.
+4.A.2.b.4	4.A.2.b.4.G02	Develop environmental restoration project plans.
+4.A.2.b.4	4.A.2.b.4.G03	Plan environmental resource conservation or protection programs.
+4.A.2.b.4	4.A.2.b.4.G04	Plan ways to limit the environmental impact of projects.
+4.A.2.b.4	4.A.2.b.4.G05	Plan green research projects.
+4.A.2.b.4	4.A.2.b.4.G06	Plan recycling or waste disposal programs.
+4.A.2.b.5	4.A.2.b.5.G01	Schedule activities related to green projects.
+4.A.2.b.6	4.A.2.b.6.G01	Adhere to practices and procedures designed to protect the environment.
+4.A.2.b.6	4.A.2.b.6.G02	Adjust logistics schedules to improve efficiency or decrease environmental impact.
+4.A.2.b.6	4.A.2.b.6.G03	Schedule activities at alternative energy production facilities.
+4.A.3.a.2	4.A.3.a.2.G01	Perform general labor on green projects.
+4.A.3.a.2	4.A.3.a.2.G02	Install heating, ventilation and air conditioning (HVAC) systems or components.
+4.A.3.a.2	4.A.3.a.2.G03	Assemble metal parts or components.
+4.A.3.a.2	4.A.3.a.2.G04	Install insulation or weather stripping.
+4.A.3.a.2	4.A.3.a.2.G05	Install testing or monitoring equipment.
+4.A.3.a.2	4.A.3.a.2.G06	Assemble green transportation technologies.
+4.A.3.a.2	4.A.3.a.2.G07	Clean materials in preparation for recycling.
+4.A.3.a.2	4.A.3.a.2.G08	Apply protective coatings.
+4.A.3.a.2	4.A.3.a.2.G09	Assemble electrical or electronic components for green technologies.
+4.A.3.a.2	4.A.3.a.2.G10	Process feedstock for biological production activities.
+4.A.3.a.2	4.A.3.a.2.G11	Sort recyclable materials.
+4.A.3.a.2	4.A.3.a.2.G12	Install alternative energy systems or components.
+4.A.3.a.2	4.A.3.a.2.G13	Clean work areas.
+4.A.3.a.2	4.A.3.a.2.G14	Coordinate movement of hazardous waste.
+4.A.3.a.2	4.A.3.a.2.G15	Remove contaminants, hazardous materials or other potentially dangerous substances.
+4.A.3.a.2	4.A.3.a.2.G16	Install plumbing or piping systems or components.
+4.A.3.a.3	4.A.3.a.3.G01	Operate cranes, hoists or forklifts to move materials.
+4.A.3.a.3	4.A.3.a.3.G02	Operate alternative energy production equipment or components.
+4.A.3.a.3	4.A.3.a.3.G03	Operate recycling processing equipment.
+4.A.3.a.3	4.A.3.a.3.G04	Operate robotic or automated equipment.
+4.A.3.a.3	4.A.3.a.3.G05	Operate pollution capture equipment.
+4.A.3.a.4	4.A.3.a.4.G01	Operate refuse collection equipment.
+4.A.3.a.4	4.A.3.a.4.G02	Operate trucks or other heavy equipment.
+4.A.3.b.1	4.A.3.b.1.G01	Maintain databases of green information.
+4.A.3.b.2	4.A.3.b.2.G01	Prepare diagrams or drawings for green projects.
+4.A.3.b.2	4.A.3.b.2.G02	Develop specifications for green materials, equipment or systems.
+4.A.3.b.4	4.A.3.b.4.G01	Repair alternative energy generation equipment.
+4.A.3.b.4	4.A.3.b.4.G02	Maintain operational equipment used in green activities.
+4.A.3.b.4	4.A.3.b.4.G03	Service vehicles equipped with green technology.
+4.A.3.b.6	4.A.3.b.6.G01	Write reports to communicate environmental information.
+4.A.3.b.6	4.A.3.b.6.G02	Prepare grant applications or funding proposals for green projects.
+4.A.3.b.6	4.A.3.b.6.G03	Document test results.
+4.A.3.b.6	4.A.3.b.6.G04	Prepare environmental reports or documentation.
+4.A.3.b.6	4.A.3.b.6.G05	Record operational data for green facilities or activities.
+4.A.3.b.6	4.A.3.b.6.G06	Prepare work requests or proposals.
+4.A.3.b.6	4.A.3.b.6.G07	Prepare research reports on green projects, products or technologies.
+4.A.3.b.6	4.A.3.b.6.G08	Document details of green products or operations.
+4.A.3.b.6	4.A.3.b.6.G09	Complete green activity documentation.
+4.A.3.b.6	4.A.3.b.6.G10	Document operational instructions for green equipment or processes.
+4.A.4.a.2	4.A.4.a.2.G01	Communicate operating information to other personnel.
+4.A.4.a.3	4.A.4.a.3.G01	Provide customers with financial information.
+4.A.4.a.3	4.A.4.a.3.G02	Consult with other professionals on green issues.
+4.A.4.a.3	4.A.4.a.3.G03	Provide green product or service information to customers.
+4.A.4.a.4	4.A.4.a.4.G01	Develop relationships with federal, state or local agencies.
+4.A.4.a.6	4.A.4.a.6.G01	Create marketing or informational materials.
+4.A.4.a.6	4.A.4.a.6.G02	Identify potential customers for green products or technologies.
+4.A.4.a.6	4.A.4.a.6.G03	Sell green products or services.
+4.A.4.a.6	4.A.4.a.6.G04	Promote green activities or initiatives.
+4.A.4.a.6	4.A.4.a.6.G05	Develop marketing plans.
+4.A.4.a.7	4.A.4.a.7.G01	Negotiate contracts.
+4.A.4.a.7	4.A.4.a.7.G02	Resolve problems or disputes related to environmental or resource issues.
+4.A.4.a.8	4.A.4.a.8.G01	Make presentations on green issues or projects.
+4.A.4.b.1	4.A.4.b.1.G01	Direct transportation or logistics activities.
+4.A.4.b.1	4.A.4.b.1.G02	Manage green technology maintenance activities.
+4.A.4.b.1	4.A.4.b.1.G03	Manage environmental programs.
+4.A.4.b.1	4.A.4.b.1.G04	Manage installation of green energy technology.
+4.A.4.b.1	4.A.4.b.1.G05	Direct testing activities.
+4.A.4.b.1	4.A.4.b.1.G06	Manage alternative energy production.
+4.A.4.b.1	4.A.4.b.1.G07	Manage compliance activities.
+4.A.4.b.1	4.A.4.b.1.G08	Develop environmentally related training or outreach programs.
+4.A.4.b.1	4.A.4.b.1.G09	Manage engineering or construction activities.
+4.A.4.b.3	4.A.4.b.3.G01	Demonstrate solar system operation to owners.
+4.A.4.b.3	4.A.4.b.3.G02	Train staff.
+4.A.4.b.4	4.A.4.b.4.G01	Supervise workers on green projects.
+4.A.4.b.4	4.A.4.b.4.G02	Supervise energy production employees.
+4.A.4.b.6	4.A.4.b.6.G01	Advise others on management of water resources or water treatment.
+4.A.4.b.6	4.A.4.b.6.G02	Recommend green solutions.
+4.A.4.b.6	4.A.4.b.6.G03	Advise others on policies, standards, or compliance activities.
+4.A.4.b.6	4.A.4.b.6.G04	Provide advice related to agricultural issues.
+4.A.4.b.6	4.A.4.b.6.G05	Advise others on green engineering or design issues.
+4.A.4.b.6	4.A.4.b.6.G06	Advise others on green investments.
+4.A.4.b.6	4.A.4.b.6.G07	Advise others on environmental remediation or restoration procedures.
+4.A.4.b.6	4.A.4.b.6.G08	Provide technical guidance on green projects.
+4.A.4.c.1	4.A.4.c.1.G01	Obtain permits.
+4.A.4.c.3	4.A.4.c.3.G01	Manage budgets or budgeting activities.
+4.A.4.c.3	4.A.4.c.3.G02	Order supplies, equipment or other resources for green activities.
+4.A.4.c.3	4.A.4.c.3.G03	Manage inventories.
+4.A.4.c.3	4.A.4.c.3.G04	Trade green financial products.
